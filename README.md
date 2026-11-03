@@ -113,6 +113,5 @@ pip install -r requirements.txt
 ## Project Information
 
 - **Author:** Fedelis Verolian
-- **Institution:** ****\_\_****
 - **Date:** 03/11/2026
 - **Repository:** Case-study-mc
